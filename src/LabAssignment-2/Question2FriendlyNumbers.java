@@ -1,6 +1,8 @@
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
+///!!! Important All questions works with Numbers.java class with out it it will not work
+
 public class Question2FriendlyNumbers {
 
     private static DecimalFormat df2 = new DecimalFormat("#.##");//New format for double unit to write it shorter

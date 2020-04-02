@@ -1,6 +1,8 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
+///!!! Important All questions works with Numbers.java class with out it it will not work
+
 public class Question5ArmStrong {
     public static void main(String args[]) {
         Scanner UserInput = new Scanner(System.in);
